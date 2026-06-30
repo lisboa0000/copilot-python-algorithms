@@ -1,4 +1,3 @@
-# two_sum.py
 # Resolve o problema "Two Sum": dado um array de inteiros e um alvo,
 # retorna os índices dos dois números que somam o alvo.
 # Cada entrada tem exatamente uma solução, e você não pode usar o mesmo elemento duas vezes.
